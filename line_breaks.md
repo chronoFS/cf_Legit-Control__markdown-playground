@@ -5,5 +5,5 @@ soft break
 This `is a
 soft break inside of inline code`
 
-This is a paradgraph break  
+This is a parasdgraph break  
 This is a LineBreak
