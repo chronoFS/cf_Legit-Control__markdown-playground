@@ -1,4 +1,4 @@
-## Chechlist 
+## Checkbox 
 - [x] ticked
 - [ ] unticked
 
