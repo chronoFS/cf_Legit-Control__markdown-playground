@@ -15,11 +15,16 @@ If you use `- -`, it will create a bullet point with a checkbox instead of a nes
 - [x] ticked
 - - [x] ticked
 - - [ ] unticked
+- - - [x] ticked
+- - - [ ] unticked
+
 
 ### Correct
 - [x] ticked
   - [x] ticked
   - [ ] unticked
+    - [x] ticked
+    - [ ] unticked
   
 
 
