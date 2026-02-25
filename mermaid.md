@@ -1,7 +1,7 @@
 # mermaid code block
 
 
-```bash
+```mermaid
 flowchart TD
   A[Start] --> B[Process]
   B --> C{Decision}
