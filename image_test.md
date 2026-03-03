@@ -4,14 +4,6 @@ Colibri is an online **collaborative Markdown editor** designed specifically to 
 
 &#8203;
 
-&#8203;
-
-&#8203;
-
-&#8203;
-
-&#8203;
-
 ests.assdsdsdasdsadsadsdsd
 
 ![asdasdasdfaffasdsad](app-screen.webp)
