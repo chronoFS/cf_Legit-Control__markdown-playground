@@ -2,6 +2,6 @@
 
 Colibri is an online **collaborative Markdown editor** designed specifically to work with **GitHub repositories**. It lets teams edit `.md` files together in realtest time and sync changes back to GitHub as clean pull requests.asdasdsadsad
 
-![asdasdasdfaff](app-screen.webp)
+![asdasdasdfaffasdsad](app-screen.webp)
 
 ## 📌 Key Purpose
