@@ -1,0 +1,25 @@
+##  Description
+
+2 users in your community want to update `README.md`.
+
+They've added ****2 annotations**** in the document, which may be interesting for you.
+
+🐦 Open the document in [Colibri](https://app.get-colibri.com/?room_id=github.com%2Fjannesblobel%2Fasfaf%2Fblob%2Fmain%2FREADME.md) and discuss with them.
+
+### 💭 **Annotation** 1/2
+```diff
++ test
+```
+---
+<details>
+<summary><strong>What is Colibri?</strong></summary>
+<br/>
+Colibri is a <strong>real-time collaborative Markdown editor</strong> that lets you work in <strong>sync and async</strong>.
+
+With Colibri, you can:
+- **Create, annotate, and suggest changes** with a Google Docs–like experience
+- **Discuss RFCs, documentation, or any Markdown files** with your team
+- Collaborate directly on Markdown in your repository
+
+It's designed to make reviewing and editing documents **faster, clearer, and more interactive**.
+</details>
