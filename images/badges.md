@@ -3,6 +3,8 @@
 
 # Markdown Syntax 
 
+## Badges withouth fill character
+[![Build Status](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/jwt/ruby-jwt/actions)[![Build Status](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/jwt/ruby-jwt/actions)
 ## Badges as plain Markdown
 Basci badges are scaling in the same size like they are provided by the link
 [![Gem Version](https://badge.fury.io/rb/jwt.svg)](https://badge.fury.io/rb/jwt)
