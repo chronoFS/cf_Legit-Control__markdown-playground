@@ -10,7 +10,7 @@ Basci[ badge](https://asd)s are scaling in the same size like they are provided 
 [⁠![Gem Version](https://badge.fury.io/rb/jwt.svg)](https://badge.fury.io/rb/jwt)
 [⁠![Build Status](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/jwt/ruby-jwt/actions)
 [⁠![Maintainability](https://qlty.sh/badges/6f61c5a6-6e23-41a7-8896-a3ce8b006655/maintainability.svg)](https://qlty.sh/gh/jwt/projects/ruby-jwt)
-[⁠![Code Coverage](https://qlty.sh/badges/6f61c5a6-6e23-41a7-8896-a3ce8b006655/test_coverage.svg)](https://qlty.sh/gh/jwt/projects/ruby-jwt)
+[⁠![Code Coverage](https://qlty.sh/badges/6f61c5a6-6e23-41a7-8896-a3ce8b006655/test_coverage.svg)](https://qlty.sh/gh/jwt/projects/ruby-jwt)asdad
 
 Source: [ruby-jwt](https://github.com/jwt/ruby-jwt/blob/main/README.md?plain=1)
 
