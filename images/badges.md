@@ -2,7 +2,7 @@
 
 ## Badges withouth fill character
 
-**s**⁠![asdasd](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)⁠![adsd](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)[s](https://github.com/jwt/ruby-jwt/actions)
+**s**⁠![asdasdf](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)⁠![adsd](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)[s](https://github.com/jwt/ruby-jwt/actions)
 
 &#8203;
 
