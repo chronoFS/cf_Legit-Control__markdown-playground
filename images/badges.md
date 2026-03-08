@@ -2,7 +2,7 @@
 
 ## Badges withouth fill character
 
-**s**⁠![asdasdsd](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)**[a](https://github.com/jwt/ruby-jwt/actions)**[s](https://github.com/jwt/ruby-jwt/actions)
+**s**⁠![fasdsad](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)**[a](https://github.com/jwt/ruby-jwt/actions)**[s](https://github.com/jwt/ruby-jwt/actions)
 
 ## Badges as plain Markdown
 
