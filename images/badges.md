@@ -14,7 +14,7 @@ Basci[ badge](https://asd)s are scaling in the same size like they are provided 
 [⁠![Maintainability](https://qlty.sh/badges/6f61c5a6-6e23-41a7-8896-a3ce8b006655/maintainability.svg)](https://qlty.sh/gh/jwt/projects/ruby-jwt)
 [⁠![Code Coverage](https://qlty.sh/badges/6f61c5a6-6e23-41a7-8896-a3ce8b006655/test_coverage.svg)](https://qlty.sh/gh/jwt/projects/ruby-jwt)asdad
 
-Source: [ruby-jwt](https://github.com/jwt/ruby-jwt/blob/main/README.md?plain=1)
+Source: [ruby-jwt](http://assd)
 
 ## Badges in a table
 
