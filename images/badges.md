@@ -4,6 +4,8 @@
 
 **s**⁠![asdasd](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)**[a](https://github.com/jwt/ruby-jwt/actions)**[s](https://github.com/jwt/ruby-jwt/actions)
 
+&#8203;
+
 ## Badges as plain Markdown
 
 Basci[ badge](https://asd)s are scaling in the same size like they are provided by the link
