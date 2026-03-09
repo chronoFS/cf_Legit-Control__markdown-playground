@@ -8,7 +8,7 @@
 
 ## [Badg](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/main-colibri-README.md/README.md)es as plain Markdown
 
-Basci[ badge](https://asd)s are *scaling in the [same](https://tests.de2) size like they are [provided](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/main-colibri-README.md/README.md) by the link
+Basci[ badge](https://asd)s are *scaling* in the [same](https://tests.de2) size like they are [provided](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/main-colibri-README.md/README.md) by the link
 [⁠![Gem Version](https://badge.fury.io/rb/jwt.svg)](https://badge.fury.io/rb/jwt2)
 [⁠![Build Status](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/jwt/ruby-jwt/actions)
 [⁠![Maintainability](https://qlty.sh/badges/6f61c5a6-6e23-41a7-8896-a3ce8b006655/maintainability.svg)](https://qlty.sh/gh/jwt/projects/ruby-jwt)
