@@ -29,7 +29,7 @@ Source: [CMSgov/design-system](https://github.com/CMSgov/design-system/blob/main
 
 &#8203;
 
-[two](https://one.com)links
+[two](https://one.com)[links](http://two.com)
 
 ## Badges as ahrefs
 
