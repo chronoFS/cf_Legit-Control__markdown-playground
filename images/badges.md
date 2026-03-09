@@ -40,4 +40,4 @@ Source: [ruby-jwt](http://assd)
   <a href="https://github.com/anomalyco/opencode/actions/workflows/publish.yml"><img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/anomalyco/opencode/publish.yml?style=flat-square&branch=dev" /></a>
 </p>
 
-Source: [Opencode](https://github.com/anomalyco/opencode/blob/dev/README.md?plain=1)
+Sou[rce: ](https://one.com)[Opencode](https://github.com/anomalyco/opencode/blob/dev/README.md?plain=1)
