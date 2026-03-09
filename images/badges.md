@@ -6,7 +6,7 @@
 
 &#8203;
 
-## [Badg](https://tesst.de)es as plain Markdown
+## [Badg](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/main-colibri-README.md/README.md)es as plain Markdown
 
 Basci[ badge](https://asd)s are scaling in the [same](https://tests.de2) size like they are [provided](https://github.com/get-colibri/cf_Legit-Control__get-colibri/blob/main-colibri-README.md/README.md) by the link
 [⁠![Gem Version](https://badge.fury.io/rb/jwt.svg)](https://badge.fury.io/rb/jwt2)
