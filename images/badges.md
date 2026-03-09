@@ -18,12 +18,12 @@ Source: [ruby-jwt](http://assd)
 
 ## Badges in a table
 
-| Name                                                       | Description                                                                                                                                                                                                                               |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CMS Design System](packages/design-system)                | The core CSS, JS, and React components for the design system. <br> [⁠![@cmsgov/design-system](https://img.shields.io/npm/v/@cmsgov/design-system.svg?label=@cmsgov%2Fdesign-system)](https://www.npmjs.com/package/@cmsgov/design-system) |
-| [Healthcare.gov Design System](packages/ds-healthcare-gov) | Design system used by application teams at healthcare.gov <br> [⁠![npm](https://img.shields.io/npm/v/@cmsgov/ds-healthcare-gov.svg?label=@cmsgov%2Fds-healthcare-gov)](https://www.npmjs.com/package/@cmsgov/ds-healthcare-gov)           |
+| Name                                                       | Description                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CMS Design System](packages/design-system)                | The core CSS, JS, and React components for the design system. <br> [⁠![@cmsgov/design-system](https://img.shields.io/npm/v/@cmsgov/design-system.svg?label=@cmsgov%2Fdesign-system)](https://www.npmjs.com/package/@cmsgov/design-system)                                                                                                                            |
+| [Healthcare.gov Design System](packages/ds-healthcare-gov) | Design system used by application teams at healthcare.go[v ](https://github.com/CMSgov/design-system/blob/main/README.md2)<br>[ ](https://github.com/CMSgov/design-system/blob/main/README.md2)[⁠![npm](https://img.shields.io/npm/v/@cmsgov/ds-healthcare-gov.svg?label=@cmsgov%2Fds-healthcare-gov)](https://github.com/CMSgov/design-system/blob/main/README.md2) |
 
-Source: [CMSgov/design-system](https://github.com/CMSgov/design-system/blob/main/README.md)
+[Source: CMSgov](https://github.com/CMSgov/design-system/blob/main/README.md2)[/design-system](https://github.com/CMSgov/design-system/blob/main/README.md)
 
 #HTML Tags
 
