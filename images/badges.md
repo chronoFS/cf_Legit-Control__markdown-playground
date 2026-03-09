@@ -2,7 +2,7 @@
 
 ## Badges withouth fill character
 
-**s**⁠![asdasdf](http://localhost:3000/get-artifact?roomId=github.com/Legit-Control/markdown-playground/blob/main/images/badges.md&path=asd)⁠![ad](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)[s](https://github.com/jwt/ruby-jwt/actions)
+**s**⁠![asdasdf](http://localhost:3000/get-artifact?roomId=github.com/Legit-Control/markdown-playground/blob/main/images/badges.md&path=asd)⁠![ad](https://github.com/jwt/ruby-jwt/actions/workflows/test.yml/badge.svg?branch=main)[s](https://github.com/jwt/ruby-jwt/actions2)
 
 &#8203;
 
